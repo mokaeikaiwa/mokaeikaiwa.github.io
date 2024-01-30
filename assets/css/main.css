@@ -2080,12 +2080,12 @@ button,
       text-indent: 7.25em;
       width: 7.25em; }
       #sidebar .toggle:before {
-        color: #7f888f;
+        color: #1EB9EF;
         margin-left: -0.0625em;
         margin-top: -0.25em;
         font-size: 1.1rem;
         z-index: 1; }
-      #sidebar .toggle:after {
+      /* #sidebar .toggle:after {
         background: rgba(222, 225, 226, 0.75);
         border-radius: 0.375em;
         content: '';
@@ -2093,7 +2093,7 @@ button,
         left: 1em;
         position: absolute;
         top: 1em;
-        width: 5em; } }
+        width: 5em; } } */
 
 /* Header */
 #header {
