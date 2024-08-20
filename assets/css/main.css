@@ -77,6 +77,9 @@ input, select, textarea {
  .phone{
   height: 1em;
 } 
+.sched_img{
+  width: 100%
+}
 
 @media screen and (max-width: 480px) {
   #footer_img img{
